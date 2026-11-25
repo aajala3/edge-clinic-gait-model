@@ -1,0 +1,9 @@
+# raw data (WearGait-PD, about 11 GB): download it yourself, see README
+data/
+# derived caches (about 350 MB; rebuilt automatically, about 2 h for the CNN)
+cache/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+.venv/

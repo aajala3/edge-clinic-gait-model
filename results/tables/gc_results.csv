@@ -1,0 +1,2 @@
+model,patients,MAE,RMSE,R2,Spearman,Slope
+Gait model: elastic net + CNN (Walk + Turn),97,1.80 (1.54 to 2.09),2.34 (1.94 to 2.75),0.31 (0.18 to 0.40),0.51 (0.37 to 0.64),1.41 (1.03 to 1.81)

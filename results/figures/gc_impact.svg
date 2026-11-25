@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1257.757344pt" height="647.346078pt" viewBox="0 0 1257.757344 647.346078" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-25T09:09:45.265441</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.1, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 647.346078 
+L 1257.757344 647.346078 
+L 1257.757344 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 181.242144 254.896718 
+L 403.232544 254.896718 
+Q 416.768544 254.896718 416.768544 246.589598 
+L 416.768544 110.352817 
+Q 416.768544 102.045697 403.232544 102.045697 
+L 181.242144 102.045697 
+Q 167.706144 102.045697 167.706144 110.352817 
+L 167.706144 246.589598 
+Q 167.706144 254.896718 181.242144 254.896718 
+z
+" clip-path="url(#pe69477cc63)" style="fill: #f4f6f9"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 451.962144 254.896718 
+L 673.952544 254.896718 
+Q 687.488544 254.896718 687.488544 246.589598 
+L 687.488544 110.352817 
+Q 687.488544 102.045697 673.952544 102.045697 
+L 451.962144 102.045697 
+Q 438.426144 102.045697 438.426144 110.352817 
+L 438.426144 246.589598 
+Q 438.426144 254.896718 451.962144 254.896718 
+z
+" clip-path="url(#pe69477cc63)" style="fill: #f4f6f9"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 722.682144 254.896718 
+L 944.672544 254.896718 
+Q 958.208544 254.896718 958.208544 246.589598 
+L 958.208544 110.352817 
+Q 958.208544 102.045697 944.672544 102.045697 
+L 722.682144 102.045697 
+Q 709.146144 102.045697 709.146144 110.352817 
+L 709.146144 246.589598 
+Q 709.146144 254.896718 722.682144 254.896718 
+z
+" clip-path="url(#pe69477cc63)" style="fill: #0e4f66"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 993.402144 254.896718 
+L 1215.392544 254.896718 
+Q 1228.928544 254.896718 1228.928544 246.589598 
+L 1228.928544 110.352817 
+Q 1228.928544 102.045697 1215.392544 102.045697 
+L 993.402144 102.045697 
+Q 979.866144 102.045697 979.866144 110.352817 
+L 979.866144 246.589598 
+Q 979.866144 254.896718 993.402144 254.896718 
+z
+" clip-path="url(#pe69477cc63)" style="fill: #e07a5f"/>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 34px; font-family: 'Georgia', 'DejaVu Serif', serif; text-anchor: middle; fill: #0e4f66" x="292.237344" y="164.383633" transform="rotate(-0 292.237344 164.383633)">1,460</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 13px; font-family: 'Arial', 'DejaVu Sans', sans-serif; fill: #404040" transform="translate(222.516719 212.117586)">reviews deferred a year:</text>
+    <text style="font-size: 13px; font-family: 'Arial', 'DejaVu Sans', sans-serif; fill: #404040" transform="translate(214.200781 229.190496)">the home walk looks stable</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 34px; font-family: 'Georgia', 'DejaVu Serif', serif; text-anchor: middle; fill: #0e4f66" x="562.957344" y="164.383633" transform="rotate(-0 562.957344 164.383633)">2,798 h</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 13px; font-family: 'Arial', 'DejaVu Sans', sans-serif; fill: #404040" transform="translate(518.161172 212.114539)">specialist hours</text>
+    <text style="font-size: 13px; font-family: 'Arial', 'DejaVu Sans', sans-serif; fill: #404040" transform="translate(528.27375 227.97784)">freed a year</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 34px; font-family: 'Georgia', 'DejaVu Serif', serif; text-anchor: middle; fill: #ffffff" x="833.677344" y="164.383633" transform="rotate(-0 833.677344 164.383633)">≈1,399</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 13px; font-family: 'Arial', 'DejaVu Sans', sans-serif; fill: #dcf1ee" transform="translate(749.856797 212.114539)">more patients who need care</text>
+    <text style="font-size: 13px; font-family: 'Arial', 'DejaVu Sans', sans-serif; fill: #dcf1ee" transform="translate(753.833984 227.97784)">seen (2-hour appointments)</text>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 40px; font-family: 'Georgia', 'DejaVu Serif', serif; text-anchor: middle; fill: #ffffff" x="1104.397344" y="166.002285" transform="rotate(-0 1104.397344 166.002285)">$1.4M</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 13px; font-family: 'Arial', 'DejaVu Sans', sans-serif; fill: #ffffff" transform="translate(1034.67875 212.117586)">a year of specialist time,</text>
+    <text style="font-size: 13px; font-family: 'Arial', 'DejaVu Sans', sans-serif; fill: #ffffff" transform="translate(999.256797 227.974793)">redirected to patients who need care</text>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_6">
+    <path d="M 156.877344 578.376 
+L 1239.757344 578.376 
+L 1239.757344 320.855257 
+L 156.877344 320.855257 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <path d="M 156.877344 578.376 
+L 156.877344 320.855257 
+" clip-path="url(#p43bace91bb)" style="fill: none; stroke: #e6e9ed; stroke-width: 0.8; stroke-linecap: round"/>
+     </g>
+     <g id="line2d_2"/>
+     <g id="text_9">
+      <text style="font-size: 15px; font-family: 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #5f6b76" x="156.877344" y="597.29641" transform="rotate(-0 156.877344 597.29641)">0</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_3">
+      <path d="M 312.463551 578.376 
+L 312.463551 320.855257 
+" clip-path="url(#p43bace91bb)" style="fill: none; stroke: #e6e9ed; stroke-width: 0.8; stroke-linecap: round"/>
+     </g>
+     <g id="line2d_4"/>
+     <g id="text_10">
+      <text style="font-size: 15px; font-family: 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #5f6b76" x="312.463551" y="597.29641" transform="rotate(-0 312.463551 597.29641)">1,000</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_5">
+      <path d="M 468.049758 578.376 
+L 468.049758 320.855257 
+" clip-path="url(#p43bace91bb)" style="fill: none; stroke: #e6e9ed; stroke-width: 0.8; stroke-linecap: round"/>
+     </g>
+     <g id="line2d_6"/>
+     <g id="text_11">
+      <text style="font-size: 15px; font-family: 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #5f6b76" x="468.049758" y="597.29641" transform="rotate(-0 468.049758 597.29641)">2,000</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_7">
+      <path d="M 623.635964 578.376 
+L 623.635964 320.855257 
+" clip-path="url(#p43bace91bb)" style="fill: none; stroke: #e6e9ed; stroke-width: 0.8; stroke-linecap: round"/>
+     </g>
+     <g id="line2d_8"/>
+     <g id="text_12">
+      <text style="font-size: 15px; font-family: 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #5f6b76" x="623.635964" y="597.29641" transform="rotate(-0 623.635964 597.29641)">3,000</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_9">
+      <path d="M 779.222171 578.376 
+L 779.222171 320.855257 
+" clip-path="url(#p43bace91bb)" style="fill: none; stroke: #e6e9ed; stroke-width: 0.8; stroke-linecap: round"/>
+     </g>
+     <g id="line2d_10"/>
+     <g id="text_13">
+      <text style="font-size: 15px; font-family: 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #5f6b76" x="779.222171" y="597.29641" transform="rotate(-0 779.222171 597.29641)">4,000</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_11">
+      <path d="M 934.808378 578.376 
+L 934.808378 320.855257 
+" clip-path="url(#p43bace91bb)" style="fill: none; stroke: #e6e9ed; stroke-width: 0.8; stroke-linecap: round"/>
+     </g>
+     <g id="line2d_12"/>
+     <g id="text_14">
+      <text style="font-size: 15px; font-family: 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #5f6b76" x="934.808378" y="597.29641" transform="rotate(-0 934.808378 597.29641)">5,000</text>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_13">
+      <path d="M 1090.394585 578.376 
+L 1090.394585 320.855257 
+" clip-path="url(#p43bace91bb)" style="fill: none; stroke: #e6e9ed; stroke-width: 0.8; stroke-linecap: round"/>
+     </g>
+     <g id="line2d_14"/>
+     <g id="text_15">
+      <text style="font-size: 15px; font-family: 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #5f6b76" x="1090.394585" y="597.29641" transform="rotate(-0 1090.394585 597.29641)">6,000</text>
+     </g>
+    </g>
+    <g id="text_16">
+     <text style="font-size: 18px; font-family: 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #404040" x="698.317344" y="625.557641" transform="rotate(-0 698.317344 625.557641)">Specialist hours a year (3,000 reviews × 2 h = 6,000 h)</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_15"/>
+     <g id="text_17">
+      <text style="font-size: 15px; font-family: 'Arial', 'DejaVu Sans', sans-serif; fill: #1f3a52" transform="translate(18 489.349608)">With the home walk</text>
+      <text style="font-size: 15px; font-family: 'Arial', 'DejaVu Sans', sans-serif; fill: #1f3a52" transform="translate(66.360937 506.250682)">(Gait model)</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_16"/>
+     <g id="text_18">
+      <text style="font-size: 15px; font-family: 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #1f3a52" x="148.877344" y="379.99995" transform="rotate(-0 148.877344 379.99995)">Today</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_7">
+    <path d="M 156.877344 578.376 
+L 156.877344 320.855257 
+" style="fill: none; stroke: #7a8590; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 156.877344 578.376 
+L 1239.757344 578.376 
+" style="fill: none; stroke: #7a8590; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 156.877344 524.530754 
+L 498.525406 524.530754 
+L 498.525406 456.638921 
+L 156.877344 456.638921 
+z
+" clip-path="url(#p43bace91bb)" style="fill: #0e4f66; stroke: #ffffff; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 498.525406 524.530754 
+L 933.845989 524.530754 
+L 933.845989 456.638921 
+L 498.525406 456.638921 
+z
+" clip-path="url(#p43bace91bb)" style="fill: #5ec4b6; stroke: #ffffff; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 933.845989 524.530754 
+L 952.772971 524.530754 
+L 952.772971 456.638921 
+L 933.845989 456.638921 
+z
+" clip-path="url(#p43bace91bb)" style="fill: #9ed9d0; stroke: #ffffff; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 952.772971 524.530754 
+L 1090.394585 524.530754 
+L 1090.394585 456.638921 
+L 952.772971 456.638921 
+z
+" clip-path="url(#p43bace91bb)" style="fill: #e6e9ed; stroke: #ffffff; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 156.877344 407.475871 
+L 638.071798 407.475871 
+L 638.071798 339.584038 
+L 156.877344 339.584038 
+z
+" clip-path="url(#p43bace91bb)" style="fill: #0e4f66; stroke: #ffffff; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 638.071798 407.475871 
+L 1090.394585 407.475871 
+L 1090.394585 339.584038 
+L 638.071798 339.584038 
+z
+" clip-path="url(#p43bace91bb)" style="fill: #e6e9ed; stroke: #ffffff; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 30px; font-family: 'Georgia', 'DejaVu Serif', serif; text-anchor: start; fill: #5ec4b6" x="1104.397344" y="498.678099" transform="rotate(-0 1104.397344 498.678099)">83%</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 11px; font-family: 'Arial', 'DejaVu Sans', sans-serif; fill: #5f6b76" transform="translate(1104.397344 542.087325)">of specialist time on</text>
+    <text style="font-size: 11px; font-family: 'Arial', 'DejaVu Sans', sans-serif; fill: #5f6b76" transform="translate(1104.397344 554.924347)">patients who need care</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 30px; font-family: 'Georgia', 'DejaVu Serif', serif; text-anchor: start; fill: #0e4f66" x="1104.397344" y="381.623216" transform="rotate(-0 1104.397344 381.623216)">52%</text>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 11px; font-family: 'Arial', 'DejaVu Sans', sans-serif; fill: #5f6b76" transform="translate(1104.397344 425.032442)">of specialist time on</text>
+    <text style="font-size: 11px; font-family: 'Arial', 'DejaVu Sans', sans-serif; fill: #5f6b76" transform="translate(1104.397344 437.869463)">patients who need care</text>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 16px; font-family: 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #1f3a52" x="156.877344" y="286.855257" transform="rotate(-0 156.877344 286.855257)">Where the specialists' time goes</text>
+   </g>
+   <g id="text_24">
+    <text style="font-weight: 700; font-size: 14px; font-family: 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="327.701375" y="494.207884" transform="rotate(-0 327.701375 494.207884)">2,196 h</text>
+   </g>
+   <g id="text_25">
+    <text style="font-weight: 700; font-size: 14px; font-family: 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #1f3a52" x="716.185698" y="494.207884" transform="rotate(-0 716.185698 494.207884)">2,798 h</text>
+   </g>
+   <g id="text_26">
+    <text style="font-weight: 700; font-size: 14px; font-family: 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #404040" x="1021.583778" y="494.207884" transform="rotate(-0 1021.583778 494.207884)">885 h</text>
+   </g>
+   <g id="text_27">
+    <text style="font-weight: 700; font-size: 14px; font-family: 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="397.474571" y="377.153001" transform="rotate(-0 397.474571 377.153001)">3,093 h</text>
+   </g>
+   <g id="text_28">
+    <text style="font-weight: 700; font-size: 14px; font-family: 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #404040" x="864.233192" y="377.153001" transform="rotate(-0 864.233192 377.153001)">2,907 h</text>
+   </g>
+   <g id="legend_1">
+    <g id="patch_15">
+     <path d="M 164.077344 311.129632 
+L 179.677344 311.129632 
+L 179.677344 302.729632 
+L 164.077344 302.729632 
+z
+" style="fill: #0e4f66; stroke: #0e4f66; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_29">
+     <text style="font-size: 12px; font-family: 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #404040" x="189.277344" y="311.129632" transform="rotate(-0 189.277344 311.129632)">Patients who need care</text>
+    </g>
+    <g id="patch_16">
+     <path d="M 333.882969 311.129632 
+L 349.482969 311.129632 
+L 349.482969 302.729632 
+L 333.882969 302.729632 
+z
+" style="fill: #5ec4b6; stroke: #5ec4b6; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_30">
+     <text style="font-size: 12px; font-family: 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #404040" x="359.082969" y="311.129632" transform="rotate(-0 359.082969 311.129632)">Freed time, given to patients who need care</text>
+    </g>
+    <g id="patch_17">
+     <path d="M 611.731719 311.129632 
+L 627.331719 311.129632 
+L 627.331719 302.729632 
+L 611.731719 302.729632 
+z
+" style="fill: #9ed9d0; stroke: #9ed9d0; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_31">
+     <text style="font-size: 12px; font-family: 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #404040" x="636.931719" y="311.129632" transform="rotate(-0 636.931719 311.129632)">Remote checks of home walks</text>
+    </g>
+    <g id="patch_18">
+     <path d="M 818.855469 311.129632 
+L 834.455469 311.129632 
+L 834.455469 302.729632 
+L 818.855469 302.729632 
+z
+" style="fill: #e6e9ed; stroke: #e6e9ed; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_32">
+     <text style="font-size: 12px; font-family: 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #404040" x="844.055469" y="311.129632" transform="rotate(-0 844.055469 311.129632)">Patients whose gait is stable</text>
+    </g>
+   </g>
+  </g>
+  <g id="text_33">
+   <text style="font-size: 21px; font-family: 'Georgia', 'DejaVu Serif', serif; text-anchor: start; fill: #0e4f66" x="156.877344" y="33.883301" transform="rotate(-0 156.877344 33.883301)">The home walk moves specialist time to the patients who need it</text>
+  </g>
+  <g id="text_34">
+   <text style="font-size: 14px; font-family: 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #5f6b76" x="156.877344" y="59.012037" transform="rotate(-0 156.877344 59.012037)">Edge Movement Clinic (fictional), 1,500 patients, a 2-hour review every 6 months; review deferred when the Gait model predicts ≤ 3.75 · planning assumptions</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pe69477cc63">
+   <rect x="156.877344" y="95.4" width="1082.88" height="166.142415"/>
+  </clipPath>
+  <clipPath id="p43bace91bb">
+   <rect x="156.877344" y="320.855257" width="1082.88" height="257.520743"/>
+  </clipPath>
+ </defs>
+</svg>

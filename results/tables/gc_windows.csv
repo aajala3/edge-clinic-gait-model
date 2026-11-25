@@ -1,0 +1,7 @@
+,Walk + Turn
+windows,2676
+patients with windows,97
+"per patient, median",25.0
+"per patient, min",16
+"per patient, max",76
+"shape of one window (time, sensors, channels)","(400, 13, 6)"
