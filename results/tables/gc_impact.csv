@@ -3,9 +3,10 @@ Today,clinic reviews a year,3000.0
 Today,specialist hours a year,6000.0
 With the model,reviews deferred (walk looks stable),1459.7938144329896
 Freed time,specialist hours freed,2797.9381443298967
-Freed time,value of that time at $500/h ($),1398969.0721649483
-Patients helped,extra 2-hour appointments for patients who need care,1398.9690721649483
+Freed time,2-hour first visits funded,1398.9690721649483
 The point,"share of specialist time on patients who need care, today (%)",51.546391752577314
 The point,"share of specialist time on patients who need care, with the model (%)",83.23024054982817
-The money,net value to the clinic ($),1357448.4536082472
+The money,"first-visit income ($2,000 each) less repeat reviews no longer billed ($1,000 each) ($)",1338144.329896907
+The money,net extra income to the clinic ($),1223634.0206185565
+The money,"break-even first-visit price, as a multiple of a repeat review",1.0434782608695652
 The trade-off,deferred reviews where the patient needed care,448.45360824742266
