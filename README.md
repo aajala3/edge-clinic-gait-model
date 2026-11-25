@@ -44,7 +44,7 @@ toward the middle (the most impaired are predicted about 2.3 points too low).
 | `edgeclinic/` | the Python package the notebook uses (data loading, features, windows, models, CNN, evaluation, figure style) |
 | `scripts/choose_threshold.py` | how the 3.75 cut-off was chosen (inside each split; run after the notebook) |
 | `results/figures/`, `results/tables/` | the outputs the notebook writes (figures as 600 dpi PNG, PDF and SVG) |
-| `presentation/` | the 10-slide pitch deck (PowerPoint), with the 2-minute video script in the speaker notes |
+| `presentation/` | the 10-slide pitch deck (PowerPoint) |
 
 ## Reproduce
 
