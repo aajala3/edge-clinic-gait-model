@@ -6,7 +6,7 @@ Freed time,specialist hours freed,2797.9381443298967
 Freed time,2-hour first visits funded,1398.9690721649483
 The point,"share of specialist time on patients who need care, today (%)",51.546391752577314
 The point,"share of specialist time on patients who need care, with the model (%)",83.23024054982817
-The money,"first-visit income ($2,000 each) less repeat reviews no longer billed ($1,000 each) ($)",1338144.329896907
+The money,"first-visit income ($2,000 each) less follow-up visits no longer billed ($1,000 each) ($)",1338144.329896907
 The money,net extra income to the clinic ($),1223634.0206185565
-The money,"break-even first-visit price, as a multiple of a repeat review",1.0434782608695652
+The money,"break-even first-visit price, as a multiple of a follow-up visit",1.0434782608695652
 The trade-off,deferred reviews where the patient needed care,448.45360824742266
