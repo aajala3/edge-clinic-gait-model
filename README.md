@@ -32,7 +32,7 @@ At the 3.75 cut-off ("needs the clinic" = actual score ≥ 4, 50 of 97 patients)
 NPV 69%, AUROC 0.74; with the cut-off chosen inside each split, sensitivity 68% and specificity 69%. For the
 fictional clinic (planning assumptions: 2-hour reviews at $500 per specialist hour, so $1,000 per follow-up visit; a
 first visit pays twice that) this defers about 1,460 of 3,000 yearly reviews and frees about 2,800 specialist hours,
-enough for about 1,400 first visits: about $1.22M a year more income net of sensor walks and catch-up visits. About 450
+enough for about 1,400 first visits: up to about $1.22M a year more income (if every freed hour becomes a first visit) net of sensor walks and catch-up visits. About 450
 deferred reviews are for patients who needed care. Main limits: scripted lab walks rather than home walks, uncontrolled medication state, and predictions pulled
 toward the middle (the most impaired are predicted about 2.3 points too low).
 
