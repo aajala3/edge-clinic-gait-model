@@ -1,0 +1,33 @@
+rule,metric,estimate,ci_low,ci_high
+Max sensitivity + specificity (Youden),Sensitivity,0.678,0.5719129629629628,0.7851287234042553
+Max sensitivity + specificity (Youden),Specificity,0.6936170212765957,0.5899840425531916,0.7931926982591876
+Max sensitivity + specificity (Youden),PPV,0.7039487500834267,0.5905879870756156,0.8100700187630447
+Max sensitivity + specificity (Youden),Missed,16.1,10.0975,22.6
+Max sensitivity + specificity (Youden),Unneeded visits,14.4,8.9975,20.1
+Max sensitivity + specificity (Youden),Patients flagged,48.3,40.095,56.3
+Max sensitivity + specificity (Youden),Accuracy,0.6855670103092784,0.6164432989690722,0.7608505154639175
+Max sensitivity + specificity (Youden),"Threshold (median, range over splits)",3.771016699778002,3.613277680955468,4.203228496779213
+Fewest missed + unneeded,Sensitivity,0.6779999999999999,0.5724945533769062,0.7863984230055658
+Fewest missed + unneeded,Specificity,0.6914893617021277,0.5877764227642277,0.7913089731729881
+Fewest missed + unneeded,PPV,0.7026254111130289,0.5872221647071109,0.8113759022153821
+Fewest missed + unneeded,Missed,16.1,10.2,22.502499999999998
+Fewest missed + unneeded,Unneeded visits,14.5,9.0,20.1025
+Fewest missed + unneeded,Patients flagged,48.4,40.097500000000004,56.402499999999996
+Fewest missed + unneeded,Accuracy,0.6845360824742268,0.6143556701030927,0.7608247422680412
+Fewest missed + unneeded,"Threshold (median, range over splits)",3.7661161996527475,3.552740076728588,4.203228496779213
+"Catch >= 80%, fewest unneeded",Sensitivity,0.7899999999999999,0.6919826086956521,0.8840078431372549
+"Catch >= 80%, fewest unneeded",Specificity,0.49787234042553186,0.39743421052631583,0.5975134803921569
+"Catch >= 80%, fewest unneeded",PPV,0.6282692768094582,0.5233887641074456,0.732415089024838
+"Catch >= 80%, fewest unneeded",Missed,10.5,5.5,15.802499999999998
+"Catch >= 80%, fewest unneeded",Unneeded visits,23.6,17.1,30.002499999999998
+"Catch >= 80%, fewest unneeded",Patients flagged,63.1,55.4,70.2
+"Catch >= 80%, fewest unneeded",Accuracy,0.6484536082474226,0.5803865979381443,0.7237113402061855
+"Catch >= 80%, fewest unneeded","Threshold (median, range over splits)",3.471893628074615,3.232259944421938,3.7547726623285955
+Fixed gait_threshold = 4.0 (current),Sensitivity,0.5780000000000001,0.46457252358490564,0.696
+Fixed gait_threshold = 4.0 (current),Specificity,0.7872340425531915,0.6906851345189239,0.8804347826086957
+Fixed gait_threshold = 4.0 (current),PPV,0.7456158311165385,0.6199497345662375,0.860610042399383
+Fixed gait_threshold = 4.0 (current),Missed,21.1,14.4975,28.5
+Fixed gait_threshold = 4.0 (current),Unneeded visits,10.0,5.2,15.2
+Fixed gait_threshold = 4.0 (current),Patients flagged,38.9,30.8,46.7
+Fixed gait_threshold = 4.0 (current),Accuracy,0.6793814432989691,0.6040979381443299,0.7587628865979381
+Fixed gait_threshold = 4.0 (current),"Threshold (median, range over splits)",4.0,4.0,4.0
